@@ -1,0 +1,3 @@
+*.CSV
+.ipynb_checkpoints/
+desktop.ini
